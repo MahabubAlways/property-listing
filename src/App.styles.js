@@ -1,16 +1,4 @@
 import styled from 'styled-components';
-/* 
-body {
-    padding: 50px 0;
-    background-color: #f3f3f3;
-}
-html, body {
-    margin: 0;
-    padding: 0;
-    position: relative;
-}
-
-*/
 export const AppContainer = styled.div`
 
 h1 {

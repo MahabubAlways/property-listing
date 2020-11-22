@@ -78,6 +78,9 @@ export const GoogleMap = ({properties, activeProperty, setActiveProperty, Defaul
                     marker.iw.close();
                 })
 
+                // make clicked info window always opened
+                marker.iw.open(thisMap, marker);
+
                 // scroll to the right property
                 const target = `#card-${property.index}`;
                 jump(target, {

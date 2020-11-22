@@ -124,7 +124,7 @@ function App() {
               }
               {
                   (isFiltering && propertiesList.length === 0) && <p className="warning">
-                      <img src={image} /><br />No properties were found.</p>
+                      <img src={image} alt="No properties were found." /><br />No properties were found.</p>
               }
           </div>
         </div>
