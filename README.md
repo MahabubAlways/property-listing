@@ -17,6 +17,9 @@ A react Single-Page Property Listing with Google Map API, jump.js, bootstrap!!
     ```javascript
     npm start [OR] yarn start
     ```
+### Live Application
+<a href="https://elated-sinoussi-7f97f2.netlify.app/">Visit</a>
+
 # Contribute
 Show your support by 🌟 the project!!
 
