@@ -19,6 +19,7 @@ A react Single-Page Property Listing with Google Map API, jump.js, bootstrap!!
     ```
 ### Live Application
 <a href="https://elated-sinoussi-7f97f2.netlify.app/" target="_blank">Visit</a>
+[go](https://elated-sinoussi-7f97f2.netlify.app/){:target="_blank" rel="noopener"}
 
 # Contribute
 Show your support by 🌟 the project!!
